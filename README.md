@@ -1,1 +1,1 @@
-# deeplarning--text-detection-CRNN
+# deeplarning-text-detection-CRNN
