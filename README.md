@@ -1,1 +1,1 @@
-# deeplarning-text-detection-CRNN
+# deep learning-text-detection-CRNN
